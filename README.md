@@ -31,12 +31,12 @@ Sady se spojují přes zemi původu umělce; z toho vznikají obrazovky *Země n
 | 1. Cover | Titul, zadání, zdroje dat, počty obrazovek |
 | 2. Foundation | Design tokeny (barvy, typografie, rozestupy) a komponenty |
 | 3. Wireframes | Wireframy všech obrazovek, rozdělené po zařízeních |
-| 4. Desktop | 26 obrazovek, 1440 px |
+| 4. Desktop | 27 obrazovek, 1440 px |
 | 5. Mobile | 32 obrazovek, 390 × 844 |
 | 6. Tablet | 32 obrazovek, 768 × 1024 |
 | 7. Fold | 31 + 31 obrazovek, složený 360 × 800 a rozložený 674 × 841 |
 
-Celkem **152 reálných obrazovek** a **152 wireframů** (počty i názvy si odpovídají). Detail v [`docs/screens.md`](docs/screens.md).
+Celkem **153 reálných obrazovek** a **153 wireframů** (počty i názvy si odpovídají). Detail v [`docs/screens.md`](docs/screens.md).
 
 ## Návod pro učitele – jak prototyp spustit
 
