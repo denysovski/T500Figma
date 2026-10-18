@@ -30,6 +30,6 @@ exports/           sem patří PDF/PNG exporty z Figmy (viz exports/README.md)
 
 ## Autor
 
-Daniel Svoboda · KIT/KPGWD · 2026
+Daniel Svoboda, KIT/KPGWD - 2026
 
 <img width="2880" height="1536" alt="image" src="https://github.com/user-attachments/assets/047a3570-91e9-4351-8ff5-115338d92a25" />
